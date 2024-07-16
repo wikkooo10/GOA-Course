@@ -3,5 +3,5 @@
 
 
 name=input("enter your name:")
-print(name)
+print("hello your name is"+" "+name)
 
