@@ -2,7 +2,7 @@ from turtle import*
 
 width(5)
 
-speed(20)
+speed(110)
 
 forward(200)
 left(180)
@@ -211,10 +211,6 @@ left(90)
 forward(10)
 
 
-
-
-
-
-
-
 exitonclick()
+
+
